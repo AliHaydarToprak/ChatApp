@@ -1,4 +1,4 @@
-"# ChatApp" \n
+<h1>ChatApp<h1>
 Windows Form ChatApp uygulaması,client-server mesajlaşma uygulamasına örnektir.\n
 Repo bilgisara indirilir.\n
 WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormApplication1 uygulama dosyası 2 defa çalıştırılır.\n
